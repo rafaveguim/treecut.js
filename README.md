@@ -15,7 +15,7 @@ To reduce clutter when space is scarce, it sets the cut above subtrees that have
 
 Get your tree ready with d3.hierarchy as usual:
 
-```
+```javascript
 var tree =  d3.hierarchy(data);
     .sum(function(d) { return d.children ? d.value : 0; })
     .sort(function(a,b){ return b.value - a.value; });
@@ -24,7 +24,7 @@ var tree =  d3.hierarchy(data);
 
 Then let treecut.js adorn it with its own attributes:
 
-```
+```javascript
 var treecut = vialab.treecut;
 treecut.hierarchy()
     .adornD3(tree);
@@ -32,7 +32,7 @@ treecut.hierarchy()
 
 Extract the cut.
 
-```
+```javascript
 var cut = treecut.treemap()
     .findcut(tree, 800*600); // 800*600 is the display area, in pixels
 ```
@@ -40,7 +40,7 @@ var cut = treecut.treemap()
 `findcut` returns an array of nodes that belong to the cut. You can mark the nodes
 under the cut as invisible before drawing the treemap:
 
-```
+```javascript
 cut.forEach(function(d){
     d.descendants().forEach(function(o,i){
       if (i==0) return;
