@@ -54,3 +54,19 @@ cut.forEach(function(d){
 <img src="img/treemap03.png" width="100%"/>
 <img src="img/treemap02.png" width="73.38%"/>
 <img src="img/treemap01.png" width="33.5%"/>
+
+##Citation
+
+R. Veras; C. Collins, ["Optimizing Hierarchical Visualizations with the Minimum Description Length Principle,"](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7536174&isnumber=4359476) in IEEE Transactions on Visualization and Computer Graphics , vol.PP, no.99, pp.1-1. doi: 10.1109/TVCG.2016.2598591
+
+```
+@article{7536174, 
+author={R. Veras and C. Collins}, 
+journal={IEEE Transactions on Visualization and Computer Graphics}, 
+title={Optimizing Hierarchical Visualizations with the Minimum Description Length Principle}, 
+year={2016}, 
+volume={PP}, 
+number={99}, 
+pages={1-1}
+}
+```
