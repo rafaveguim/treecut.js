@@ -55,6 +55,24 @@ cut.forEach(function(d){
 <img src="img/treemap02.png" width="73.38%"/>
 <img src="img/treemap01.png" width="33.5%"/>
 
+## Demos
+
+Load the pages on windows of different size to see how the treemap adapts.
+
+### MeSH - Medical Subject Headings
+
+MeSH is a hierarchy of 56,327 categories used to tag PubMed publications. The size of a category encodes the number of papers contained in it. For each category A, a child named (A) represents the number of papers tagged **directly** with A.
+
+**Link:** http://vialab.science.uoit.ca/mesh/treemap.html
+
+You can compare the view above with the [unabstracted MeSH treemap](http://vialab.science.uoit.ca/mesh/vanilla-treemap.html). 
+
+### DMOZ (Directory Mozilla)
+
+DMOZ is a hierarchical web directory of nearly half a million categories.
+
+**Link:** http://vialab.science.uoit.ca/treemapcut/dmoz.html
+
 ##Citation
 
 R. Veras; C. Collins, ["Optimizing Hierarchical Visualizations with the Minimum Description Length Principle,"](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7536174&isnumber=4359476) in IEEE Transactions on Visualization and Computer Graphics , vol.PP, no.99, pp.1-1.
