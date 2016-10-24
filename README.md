@@ -14,8 +14,10 @@ while collapsing regular subtrees.
 Conversely, with more space, the algorithm tends to select lower cuts, allowing more
 nodes to be displayed.
 
+You can read the full technical details in our [research paper](##Citation).
 
-##Usage
+
+## Usage
 
 ### With d3.hierarchy
 
@@ -79,7 +81,7 @@ DMOZ is a hierarchical web directory of nearly half a million categories.
 
 **Link:** http://vialab.science.uoit.ca/treemapcut/dmoz.html
 
-##Citation
+## Citation
 
 R. Veras; C. Collins, ["Optimizing Hierarchical Visualizations with the Minimum Description Length Principle,"](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7536174&isnumber=4359476) in IEEE Transactions on Visualization and Computer Graphics , vol.PP, no.99, pp.1-1.
 
