@@ -51,6 +51,6 @@ cut.forEach(function(d){
 
 ## Example
 
-<img src="img/treemap03.png" style="min-width: 100%;"/>
-<img src="img/treemap02.png" style="min-width: 73.38%;"/>
-<img src="img/treemap01.png" style="min-width: 33.5%;"/>
+<img src="img/treemap03.png" width="100%"/>
+<img src="img/treemap02.png" width="73.38%"/>
+<img src="img/treemap01.png" width="33.5%"/>
