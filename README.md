@@ -7,7 +7,13 @@ The abstraction is determined by a tree cut, which is essentially a
 boundary between the visible and hidden parts of the tree.
 
 The tree cut selection algorithm is based on the Minimum Description Length principle. 
-To reduce clutter when space is scarce, it sets the cut above subtrees that have more uniform scores.
+To reduce clutter when space is scarce, it sets the cut above subtrees 
+that have more uniform scores. This behaviour has the effect of exposing subtrees that
+contain nodes with a dramatically disproportionate score (outliers) 
+while collapsing regular subtrees. 
+Conversely, with more space, the algorithm tends to select lower cuts, allowing more
+nodes to be displayed.
+
 
 ##Usage
 
