@@ -86,13 +86,17 @@ DMOZ is a hierarchical web directory of nearly half a million categories.
 R. Veras; C. Collins, ["Optimizing Hierarchical Visualizations with the Minimum Description Length Principle,"](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7536174&isnumber=4359476) in IEEE Transactions on Visualization and Computer Graphics , vol.PP, no.99, pp.1-1.
 
 ```
-@article{Veras2016, 
-author={R. Veras and C. Collins}, 
-journal={IEEE Transactions on Visualization and Computer Graphics}, 
-title={Optimizing Hierarchical Visualizations with the Minimum Description Length Principle}, 
-year={2016}, 
-volume={PP}, 
-number={99}, 
-pages={1-1}
+@Article{Veras2017,
+Author = { Rafael Veras and Christopher Collins },
+Journal= {IEEE Transactions on Visualization and Computer Graphics },
+Title= { Optimizing Hierarchical Visualizations with the Minimum Description Length Principle },
+Year= {2017},
+Volume = { 23 },
+Number = { 1 },
+Pages= { 631--640},
+Keywords = { Hierarchy data, data aggregation, multiscale visualization, tree cut, antichain },
+DOI = { 10.1109/TVCG.2016.2598591 },
+ISSN = { 1077-2626 },
+Month = jan,
 }
 ```
