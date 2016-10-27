@@ -81,6 +81,12 @@ DMOZ is a hierarchical web directory of nearly half a million categories.
 
 **Link:** http://vialab.science.uoit.ca/treemapcut/dmoz.html
 
+## Slides (VIS 16 Talk)
+
+Link: https://vialab.ca/treecut/slides
+
+Tip: Use keys W, D, S and A to interact with slides 9 and 12. On slide 12 you can also click on nodes to anchor the tree cut.
+
 ## Citation
 
 R. Veras; C. Collins, ["Optimizing Hierarchical Visualizations with the Minimum Description Length Principle,"](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7536174&isnumber=4359476) in IEEE Transactions on Visualization and Computer Graphics , vol.23, no.1, pp.631-640.
