@@ -71,7 +71,7 @@ Load the pages on windows of different size to see how the treemap adapts.
 
 MeSH is a hierarchy of 56,327 categories used to tag PubMed publications. The size of a category encodes the number of papers contained in it. For each category A, a child named (A) represents the number of papers tagged **directly** with A.
 
-**Link:** http://vialab.science.uoit.ca/mesh/treemap.html
+**Link:** http://vialab.science.uoit.ca/mesh/
 
 You can compare the view above with the [unabstracted MeSH treemap](http://vialab.science.uoit.ca/mesh/vanilla-treemap.html). 
 
@@ -79,7 +79,7 @@ You can compare the view above with the [unabstracted MeSH treemap](http://viala
 
 DMOZ is a hierarchical web directory of nearly half a million categories.
 
-**Link:** http://vialab.science.uoit.ca/treemapcut/dmoz.html
+**Link:** http://vialab.science.uoit.ca/dmoz/
 
 ## Slides (VIS 16 Talk)
 
