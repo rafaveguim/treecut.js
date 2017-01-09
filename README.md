@@ -83,7 +83,7 @@ DMOZ is a hierarchical web directory of nearly half a million categories.
 
 ## Slides (VIS 16 Talk)
 
-Link: https://vialab.ca/treecut/slides
+Link: http://vialab.ca/treecut/slides
 
 Tip: Use keys W, D, S and A to interact with slides 9 and 12. On slide 12 you can also click on nodes to anchor the tree cut.
 
