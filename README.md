@@ -85,7 +85,11 @@ DMOZ is a hierarchical web directory of nearly half a million categories.
 
 Link: http://vialab.ca/treecut/slides
 
-Tip: Use keys W, D, S and A to interact with slides 9 and 12. On slide 12 you can also click on nodes to anchor the tree cut.
+Tip: 
+
+Use keys _W_, _D_, _S_ and _A_ to interact with slides 9 and 12. On slide 12 you can also _click_ on nodes to anchor the tree cut.
+
+Press _K_ for notes.
 
 ## Citation
 
